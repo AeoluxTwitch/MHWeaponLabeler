@@ -1,6 +1,6 @@
 import { Label } from './types.js';
 
-export const DELETE = 'insert-rkey-of-delete-post-here';
+export const DELETE = '3l7b74fyuxu26';
 export const LABEL_LIMIT = 2;
 export const LABELS: Label[] = [
   {
