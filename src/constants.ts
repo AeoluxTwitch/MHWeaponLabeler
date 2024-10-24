@@ -5,42 +5,100 @@ export const LABEL_LIMIT = 1;
 export const LABELS: Label[] = [
   {
     rkey: 'insert-rkey-here',
-    identifier: 'earth',
+    identifier: 'longsword',
     locales: [
-      { lang: 'en', name: 'Earth 🌎', description: 'Earth'},
-      { lang: 'pt-BR', name: 'Terra 🌎', description: 'Terra'},
+      { lang: 'en', name: 'Long Sword', description: 'Long Sword'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
-    identifier: 'fire',
+    identifier: 'chargeblade',
     locales: [
-      { lang: 'en', name: 'Fire 🔥', description: 'Fire'},
-      { lang: 'pt-BR', name: 'Fogo 🔥', description: 'Fogo'},
+      { lang: 'en', name: 'Charge Blade', description: 'Charge Blade'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
-    identifier: 'air',
+    identifier: 'switchaxe',
     locales: [
-      { lang: 'en', name: 'Air 💨', description: 'Air'},
-      { lang: 'pt-BR', name: 'Ar 💨', description: 'Ar'},
+      { lang: 'en', name: 'Switch Axe', description: 'Switch Axe'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
-    identifier: 'water',
+    identifier: 'swordandshield',
     locales: [
-      { lang: 'en', name: 'Water 💧', description: 'Water'},
-      { lang: 'pt-BR', name: 'Água 💧', description: 'Água'},
+      { lang: 'en', name: 'Sword and Shield', description: 'Sword and Shield'},
     ]
   },
   {
     rkey: 'insert-rkey-here',
-    identifier: 'love',
+    identifier: 'dualblades',
     locales: [
-      { lang: 'en', name: 'Love 💞', description: 'Love'},
-      { lang: 'pt-BR', name: 'Amor 💞', description: 'Amor'},
+      { lang: 'en', name: 'Dual Blades', description: 'Dual Blades'},
+    ]
+  },
+  {
+    rkey: 'insert-rkey-here',
+    identifier: 'hammer',
+    locales: [
+      { lang: 'en', name: 'Hammer', description: 'Hammer'},
+    ]
+  },
+  {
+    rkey: 'insert-rkey-here',
+    identifier: 'huntinghorn',
+    locales: [
+      { lang: 'en', name: 'Hunting Horn', description: 'Hunting Horn'},
+    ]
+  },
+  {
+    rkey: 'insert-rkey-here',
+    identifier: 'lance',
+    locales: [
+      { lang: 'en', name: 'Lance', description: 'Lance'},
+    ]
+  },
+  {
+    rkey: 'insert-rkey-here',
+    identifier: 'gunlance',
+    locales: [
+      { lang: 'en', name: 'Gunlance', description: 'Gunlance'},
+    ]
+  },
+  {
+    rkey: 'insert-rkey-here',
+    identifier: 'insectglaive',
+    locales: [
+      { lang: 'en', name: 'Insect Glaive', description: 'Insect Glaive'},
+    ]
+  },
+  {
+    rkey: 'insert-rkey-here',
+    identifier: 'greatsword',
+    locales: [
+      { lang: 'en', name: 'Great Sword', description: 'Great Sword'},
+    ]
+  },
+  {
+    rkey: 'insert-rkey-here',
+    identifier: 'lightbowgun',
+    locales: [
+      { lang: 'en', name: 'Light Bowgun', description: 'Light Bowgun'},
+    ]
+  },
+  {
+    rkey: 'insert-rkey-here',
+    identifier: 'heavybowgun',
+    locales: [
+      { lang: 'en', name: 'Heavy Bowgun', description: 'Heavy Bowgun'},
+    ]
+  },
+  {
+    rkey: 'insert-rkey-here',
+    identifier: 'bow',
+    locales: [
+      { lang: 'en', name: 'Bow', description: 'Bow'},
     ]
   },
 ];
