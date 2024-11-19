@@ -32,7 +32,7 @@
     "@atproto/api": "^0.13.11",
     "@skyware/bot": "^0.3.3",
     "@skyware/jetstream": "^0.1.8",
-    "@skyware/labeler": "^0.1.7",
+    "@skyware/labeler": "^0.1.11",
     "dotenv": "^16.4.5",
     "express": "^4.21.0",
     "husky": "^9.1.6",

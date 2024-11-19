@@ -11,14 +11,14 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3l7b5ieymv423',
     identifier: 'chargeblade',
     locales: [
       { lang: 'en', name: 'Charge Blade', description: 'Charge Blade'},
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3l7b5ia3te42h',
     identifier: 'switchaxe',
     locales: [
       { lang: 'en', name: 'Switch Axe', description: 'Switch Axe'},
